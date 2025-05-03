@@ -1,0 +1,20 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "dimitrius77@protonmail.com",
+                "Name": "akr7777"
+            }
+        ],
+        "Category": "System Information",
+        "Description": "My IP",
+        "Icon": "Network",
+        "Id": "myIP",
+        "Name": "My IP address widget",
+        "Version": "1",
+        "Website": "https://example.com/user/plasmoid-helloworldplugin",
+        "BugReportUrl": "https://example.com/user/plasmoid-helloworldplugin/bugs"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "KPackageStructure": "Plasma/Applet"
+}
